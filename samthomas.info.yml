@@ -1,0 +1,6 @@
+name: Sam & Thomas
+type: module
+description: 'This is a Hello World module for Sam & Thomas.'
+package: Training Module
+version: 8.x-1.0-dev
+core: 8.x
