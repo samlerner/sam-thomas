@@ -1,0 +1,6 @@
+samthomas.description:
+  path: 'samthomas'
+  defaults:
+    _content: '\Drupal\samthomas\Controller\SamThomasController::description'
+  requirements:
+    _access: 'TRUE'
