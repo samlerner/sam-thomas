@@ -5,7 +5,7 @@
  * Contains \Drupal\samthomas\Controller\SamThomasController.
  */
 
-namespace Drupal\samthomas\Controller
+namespace Drupal\samthomas\Controller;
 
 /**
  * Controller routines for hello page routes.
