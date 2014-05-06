@@ -4,3 +4,13 @@ samthomas.description:
     _content: '\Drupal\samthomas\Controller\SamThomasController::description'
   requirements:
     _access: 'TRUE'
+
+samthomas.about:
+  path: 'samthomas/about'
+  defaults:
+    _content: '\Drupal\samthomas\Controller\SamThomasController::about'
+    _title: 'The Wonderful About Us Page'
+  requirements:
+    _access: 'TRUE'
+
+
