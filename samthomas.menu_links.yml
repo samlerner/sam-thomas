@@ -1,4 +1,9 @@
 samthomas.description:
   title: SamThomas Description
   route_name: samthomas.description
-  menu_name: samthomas
+
+samthomas.about:
+  title: About Sam and Thomas
+  route_name: samthomas.about
+  menu_name: main
+  weight: 10
